@@ -1,9 +1,12 @@
 from statistics import Statistics
-
+from player_reader import PlayerReader
 
 def main():
-    stats = Statistics()
+    stats = Statistics(
+        PlayerReader()
+    )
     philadelphia_flyers_players = stats.team("PHI")
+    print(philadelphia_flyers_players)
     top_scorers = stats.top(10)
 
     print("Philadelphia Flyers:")
@@ -13,6 +16,8 @@ def main():
     print("Top point getters:")
     for player in top_scorers:
         print(player)
+    
+    
 
 
 if __name__ == "__main__":
