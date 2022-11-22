@@ -12,4 +12,4 @@ Hieman vastaava kun glad,sad,mad mutta jaetaan viiteen eri joukkoon. Tämän ver
 keskustellaan. Annetaan siis keskustelun tapahtua ilman äänestystä yms.
 
 
-Molemmat ovat siis tekniikoita jolla yritetään miettiä mitä mennyttä sprinttiä ja mitä asioita voitaisiin parantaa.  
+Molemmat ovat siis tekniikoita jolla yritetään miettiä mitä mennyttä sprinttiä ja mitä asioita voitaisiin parantaa.   
