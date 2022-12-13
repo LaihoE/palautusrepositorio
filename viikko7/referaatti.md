@@ -8,4 +8,4 @@ myös pointin että mikään näistä ei ole selvästi paras ja mikään niistä
 mittaamaan laatua.
 
 Hirvikoski puhuu myös eri käytännöistä ja miten ne vaikuttavat ohjelmointiin. Esimerkiksi Pariohjelmoinnista hän nostaa hyviä ja huonoja puolia. Pariohjelmointi korreloi positiivisesti koodinlaatuun ja vaativiin ongelmiin. Tärkeänä hän myös nostaa sen että kaikki ihmiset eivät sovi yhtä hyvin pariohjelmointiin. Erityisen hyvin pariohjelmointi tomii
-avomielisten, vastuullisten, monipuolisten peroonien ja temperamenttiten keskuudessa.
+avomielisten, vastuullisten, monipuolisten peroonien ja temperamenttiten keskuudessa. Kuitenkin jonkin verran ihmisitä kokivat pariohjelmoinnin turhauttavaksi sekä sen laskevan hieman tuotettavuutta, ainakin lyhyellä aikavälillä. Tämä ei ole kuitenkaan niin selkeää onko pitkällä aikavälillä negatiivista tuotettavuudelle.
